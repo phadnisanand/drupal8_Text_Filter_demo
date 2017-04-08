@@ -1,0 +1,7 @@
+celebrate.admin_settings:
+  path: '/admin/config/system/celebrate'
+  defaults:
+    _form: '\Drupal\celebrate\Form\ModuleConfigurationForm'
+    _title: 'celebrate configuration screen'
+  requirements:
+    _permission: 'administer site configuration'

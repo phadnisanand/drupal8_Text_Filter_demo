@@ -1,0 +1,5 @@
+celebrate.admin_settings:
+  title: 'Celebrate configuration screen'
+  parent: system.admin_config_system
+  description: 'Change settings of celebrate'
+  route_name: celebrate.admin_settings
